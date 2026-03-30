@@ -1,0 +1,9 @@
+crewai
+crewai-tools
+langchain-openai
+chromadb
+sentence-transformers
+beautifulsoup4
+markdownify
+python-dotenv
+langchain-community
